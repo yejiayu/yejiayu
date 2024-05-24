@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔭  I’m currently working on exploring and experimenting with blockchain technology, running test nodes, and participating in various airdrop projects.
+  
+## 🔧 Skills & Technologies
+- **Programming Languages**: Rust, Go, JavaScript/TypeScript
+- **Blockchain**: Led the design of the blockchain framework **Muta**.
+- **Kubernetes**
+- **Full Stack Development**
+
+## 📫 Get in Touch
+- Email: [yejiayu.fe@gmail.com]
 <!--
 **yejiayu/yejiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

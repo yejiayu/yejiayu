@@ -4,7 +4,7 @@
   
 ## 🔧 Skills & Technologies
 - **Programming Languages**: Rust, Go, JavaScript/TypeScript
-- **Blockchain**: Led the design of the blockchain framework **Muta**.
+- **Blockchain**: Since 2018, engaged in blockchain development and led the design of the blockchain framework Muta.
 - **Kubernetes**
 - **Full Stack Development**
 
